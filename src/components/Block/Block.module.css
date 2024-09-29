@@ -1,0 +1,10 @@
+.box {
+    width: 100px;
+    height: 100px;
+    transition: border-color 0.25s;
+    transition: background-color 0.25s ease;
+}
+
+.box:hover {
+    border-color: #ffffff;
+}
